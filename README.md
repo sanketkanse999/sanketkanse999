@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkanse999&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkanse999" /> </p>
 
-- 🔭 I’m currently working with E-cell, IIT-GUWAHATI **As a Campus Ambassador**
 
 - 📫 How to reach me **sanketkanse999@gmail.com**
 
