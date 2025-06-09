@@ -42,8 +42,7 @@
 |-------------|--------------|
 | Languages   | ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) |
 | Frontend    | ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/> ![React](https://img.icons8.com/color/48/000000/react-native.png) |
-| Backend     | ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/> |
-| Mobile App  | ![Android](https://img.icons8.com/color/48/000000/android-os.png) <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/> |
+| Backend     | ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40"/>  |
 | Database    | ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) |
 | Tools       | ![Git](https://img.icons8.com/color/48/000000/git.png) <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> ![Canva](https://img.icons8.com/color/48/000000/canva.png) ![Photoshop](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png) <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" width="40"/> |
 
